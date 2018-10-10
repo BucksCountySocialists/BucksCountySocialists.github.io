@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Lato';
+    font-family: 'Raleway';
 }
 
 @media (min-width: 992px) {
@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Catamaran';
+    font-family: 'Merriweather';
     font-weight: 800 !important;
 }
 
