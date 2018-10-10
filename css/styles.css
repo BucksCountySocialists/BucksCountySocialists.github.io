@@ -11,7 +11,7 @@ body {
 }
 
 @media (min-width: 992px) {
-    .fa-facebook {
+    .fa-envelope-o {
         margin-left: 20px;
     }
 }
@@ -97,17 +97,23 @@ h6 {
 }
 
 .fa {
-    padding: 8px;
+    padding: 8px 9px 8px 8px;
     font-size: 30px;
     width: 32px;
     text-align: center;
     margin-right: 10px;
-    border-radius: 50%;
+    border-radius: 25%;
 }
 
 .fa:hover {
     opacity: 0.7;
     text-decoration: none;
+}
+
+.fa-envelope-o {
+    background: #818182;
+    color: white;
+    /*margin-right: 13.5px;*/
 }
 
 .fa-facebook {
